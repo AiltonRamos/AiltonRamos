@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ailtonramos&label=Profile%20views&color=0e75b6&style=flat" alt="ailtonramos" /> </p>
 
-📚 Estou estudando na DIO, em específico dentro do Bootcamp da Spread Fullstack Developer.
+📚 Atualmente estou na evolução de Desenvolvimento Web. Estudando e revisando conceitos e boas práticas de front-end.
 <div>
 <h3 align="left">Tecnologias: 💻 </h3>
 <p align="left">
